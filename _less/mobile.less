@@ -1,0 +1,301 @@
+@media only screen
+and (min-device-width : 320px)
+and (max-device-width : 480px)  {
+
+
+	.white-section{
+		padding-top: @padding-large-vertical;
+		padding-bottom: @padding-large-vertical;
+	}
+
+/*==NAV======================*/
+
+	#main-nav{
+		.navbar-nav{
+			padding-left: @padding-large-horizontal;
+		}
+	}
+
+	/*==HOME SECTION======================*/
+
+	#home-section{
+			padding-top: @padding-large-vertical * 4;
+
+			.cert{
+				margin-top: @padding-large-vertical * 2;
+			}
+	}
+
+	/*==LOGIN & REGISTER PAGE======================*/
+
+	.fullheight{
+		height: auto;
+		padding-top: @padding-large-vertical * 8;
+	}
+
+	footer{
+		height: auto;
+	}
+
+	/*==SIGN UP PAGE======================*/
+
+	.sign-up.fullheight{
+		.flex-container{
+			flex-direction: column;
+		}
+		.per-60{
+			width: 100%;
+		}
+
+		.per-40{
+			width: 100%;
+		}
+
+		ul{
+			padding-left: @padding-large-horizontal * 3;
+		}
+	}
+
+/*QUESTIONS===================================*/
+
+	body.question-body{
+
+
+		#question-section{
+
+			padding: 0px;
+
+			.question_panel{
+				border: none;
+				.box-shadow(none);
+				font-size: 12px;
+				line-height: 15px;
+
+				h3{
+					font-size: 14px;
+				}
+
+				p, h3{
+					margin-bottom: 15px;
+				}
+
+				.panel-heading{
+					padding: 0px;
+					position: fixed;
+					clearfix: both;
+					overflow: auto;
+					width: 100%;
+					background-color: #ffffff;
+					z-index: 100;
+
+
+					p{
+						margin-bottom: 0px;
+						font-size: 10px;
+
+					}
+
+					.progress{
+						border-radius: 0px;
+						border: none;
+						.box-shadow(none);
+						height: 10px;
+						margin-bottom: 0px;
+					}
+
+					.label{
+						width:70px;
+						height: 25px;
+						border-radius: 0px;
+						border: none;
+						font-size: 11px;
+						line-height: 20px;
+						text-transform: none;
+
+						&.label-warning{
+							background-color: transparent;
+							border: none;
+							border-left: 1px solid #ddd;
+							margin-left: 0px;
+
+							color: #777;
+						}
+
+						&.label-success{
+							background-color: transparent;
+							border: none;
+							border-right: 1px solid #ddd;
+							color: #777;
+							margin-right: 0px;
+						}
+					}
+
+				}
+
+				.panel-body{
+					padding-top: 40px;
+					padding-bottom: 30px;
+					padding-right: 0px;
+				}
+
+				.panel-footer{
+					background-color: #ffffff;
+					position: fixed;
+					left: 0;
+					right: 0;
+					bottom: 0;
+					margin-bottom: 0; // override .navbar defaults
+					border-width: 1px 0 0;
+
+				}
+
+				.question-image{
+					width: 48%;
+					margin-left: 25%;
+				}
+
+			}
+
+			.image-q{
+				h3{
+					margin-top:15px;
+				}
+			}
+
+			.question-list{
+
+				&.radio, &.checkbox{
+
+					li{
+						min-height: 50px;
+						border-bottom: 1px solid #ddd;
+						vertical-allign: middle;
+						padding-bottom: 10px;
+						margin-top:20px;
+
+						label{
+							width:92%;
+						}
+
+						&.right{
+							border-bottom-color: #71d945;
+						}
+
+						&.wrong{
+							border-bottom-color: @brand-danger;
+						}
+					}
+				}
+
+				&.image{
+
+					li{
+						display: inline-block !important;
+						height: auto !important;
+						width: 31% !important;
+						margin-right: 1%;
+						margin-bottom: 1%;
+
+						img{
+							width: 100%;
+							height: 100%;
+						}
+
+						&.right:after, &.wrong:after{
+							font-family: 'FontAwesome';
+							font-size: 90px;
+							line-height: 90px;
+							position: absolute;
+						}
+
+						.iradio_square-aero{
+							background: none !important;
+							width: 100% !important;
+							height: 100% !important;
+							border: 1px solid @gray-light;
+							position: absolute;
+							left: 0;
+							top: 0;
+
+							input[type="radio"]{
+								position: absolute;
+								left: 0;
+								top: 0;
+							}
+
+							&:hover{
+								border-color: darken(@blue, 12%);
+								.box-shadow(0px 0px 3px @gray);
+							}
+
+							&.checked{
+								border-color: @blue;
+								.box-shadow(0px 0px 3px darken(@blue, 12%));
+								background-color: fade(darken(@blue, 12%), 30%) !important;
+							}
+
+						}
+					}
+				}
+			}
+		}
+
+	}
+
+	/*TRY IT SECTION===================*/
+
+	#tryit-section{
+
+	}
+
+	/*PROFILE SECTION===================*/
+
+	#profile-section{
+		padding-top: 0px;
+
+		.btn-group.pull-right{
+			float: left !important;
+		}
+	}
+
+	//*RESULT PAGES============*/
+
+	.button-stack{
+		.btn{
+			.btn-block;
+			margin-bottom: 10px;
+		}
+	}
+
+//*PAYMENT METHOD================*/
+
+	#payment-method{
+
+		padding: 20px;
+
+		.title{
+			text-align: left;
+		}
+
+		.payment-cert{
+			position: absolute;
+			margin-left: auto;
+			margin-right: auto;
+			z-index: 100;
+			top: 20px;
+			left: 0;
+			margin-left: 0px;
+
+		}
+
+		.list-group{
+			display: none;
+		}
+
+		.pricing-panel{
+			.panel-heading{
+				text-align: left;
+			}
+		}
+	}
+}

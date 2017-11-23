@@ -1264,6 +1264,16 @@
 		"sM": 0,
 		"sU": 0
 		},
+	"\/_less\/css\/theme.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/_less\/css\/theme-min.css",
+		"oF": 0,
+		"oS": 0
+		},
 	"\/_less\/geometry.less": {
 		"aP": 1,
 		"bl": 1,
@@ -1276,6 +1286,40 @@
 		"oAP": "\/css\/geometry.css",
 		"oF": 2,
 		"oS": 1,
+		"rU": 0,
+		"sI": 0,
+		"sM": 0,
+		"sU": 0
+		},
+	"\/_less\/mobile.less": {
+		"aP": 0,
+		"bl": 0,
+		"dJ": 0,
+		"ft": 1,
+		"ie": 1,
+		"iI": 0,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/css\/mobile.css",
+		"oF": 0,
+		"oS": 0,
+		"rU": 0,
+		"sI": 0,
+		"sM": 0,
+		"sU": 0
+		},
+	"\/_less\/tablet.less": {
+		"aP": 0,
+		"bl": 0,
+		"dJ": 0,
+		"ft": 1,
+		"ie": 1,
+		"iI": 0,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/css\/tablet.css",
+		"oF": 0,
+		"oS": 0,
 		"rU": 0,
 		"sI": 0,
 		"sM": 0,
@@ -1393,7 +1437,7 @@
 		"oA": 0,
 		"oAP": "\/img\/about-icon-1.png",
 		"oF": 0,
-		"opt": 1
+		"opt": 0
 		},
 	"\/img\/about-icon-2.png": {
 		"ft": 32768,
@@ -1401,7 +1445,7 @@
 		"oA": 0,
 		"oAP": "\/img\/about-icon-2.png",
 		"oF": 0,
-		"opt": 1
+		"opt": 0
 		},
 	"\/img\/AjaxLoader.gif": {
 		"ft": 4194304,
@@ -1411,81 +1455,43 @@
 		"oF": 0,
 		"opt": 0
 		},
-	"\/img\/apple-touch-icon-114x114-precomposed.png": {
-		"ft": 32768,
-		"iS": 4419,
+	"\/img\/bg_FAQ.jpg": {
+		"ft": 16384,
+		"iS": 47381,
 		"oA": 0,
-		"oAP": "\/img\/apple-touch-icon-114x114-precomposed.png",
+		"oAP": "\/img\/bg_FAQ.jpg",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/img\/apple-touch-icon-144x144-precomposed": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/img\/apple-touch-icon-144x144-precomposed",
-		"oF": 0
-		},
-	"\/img\/apple-touch-icon-144x144-precomposed.png": {
-		"ft": 32768,
-		"iS": 5928,
+	"\/img\/bg_login.jpg": {
+		"ft": 16384,
+		"iS": 77701,
 		"oA": 0,
-		"oAP": "\/img\/apple-touch-icon-144x144-precomposed.png",
+		"oAP": "\/img\/bg_login.jpg",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/img\/apple-touch-icon-72x72-precomposed.png": {
-		"ft": 32768,
-		"iS": 2709,
+	"\/img\/bg_main.jpg": {
+		"ft": 16384,
+		"iS": 110065,
 		"oA": 0,
-		"oAP": "\/img\/apple-touch-icon-72x72-precomposed.png",
+		"oAP": "\/img\/bg_main.jpg",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/img\/bkg-1.png": {
-		"ft": 32768,
-		"iS": 104362,
+	"\/img\/bg_test-result.jpg": {
+		"ft": 16384,
+		"iS": 70143,
 		"oA": 0,
-		"oAP": "\/img\/bkg-1.png",
+		"oAP": "\/img\/bg_test-result.jpg",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/img\/bkg-2-white.png": {
-		"ft": 32768,
-		"iS": 61816,
+	"\/img\/bg_test-run.jpg": {
+		"ft": 16384,
+		"iS": 57906,
 		"oA": 0,
-		"oAP": "\/img\/bkg-2-white.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/img\/bkg-3-pastel.png": {
-		"ft": 32768,
-		"iS": 46424,
-		"oA": 0,
-		"oAP": "\/img\/bkg-3-pastel.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/img\/bkg-4-pastel.png": {
-		"ft": 32768,
-		"iS": 6859,
-		"oA": 0,
-		"oAP": "\/img\/bkg-4-pastel.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/img\/bkg-5-q.png": {
-		"ft": 32768,
-		"iS": 11238,
-		"oA": 0,
-		"oAP": "\/img\/bkg-5-q.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/img\/body-bkg.png": {
-		"ft": 32768,
-		"iS": 38716,
-		"oA": 0,
-		"oAP": "\/img\/body-bkg.png",
+		"oAP": "\/img\/bg_test-run.jpg",
 		"oF": 0,
 		"opt": 0
 		},
@@ -1513,6 +1519,14 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/img\/certified.png": {
+		"ft": 32768,
+		"iS": 19048,
+		"oA": 0,
+		"oAP": "\/img\/certified.png",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/img\/credit.png": {
 		"ft": 32768,
 		"iS": 762,
@@ -1523,17 +1537,9 @@
 		},
 	"\/img\/desktop.png": {
 		"ft": 32768,
-		"iS": 194156,
+		"iS": 145501,
 		"oA": 0,
 		"oAP": "\/img\/desktop.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/img\/divider.png": {
-		"ft": 32768,
-		"iS": 1628,
-		"oA": 0,
-		"oAP": "\/img\/divider.png",
 		"oF": 0,
 		"opt": 0
 		},
@@ -1566,14 +1572,6 @@
 		"iS": 1053,
 		"oA": 0,
 		"oAP": "\/img\/down_arrow_select_2.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/img\/eq-testbox.png": {
-		"ft": 32768,
-		"iS": 8921,
-		"oA": 0,
-		"oAP": "\/img\/eq-testbox.png",
 		"oF": 0,
 		"opt": 0
 		},
@@ -1615,27 +1613,19 @@
 		"oF": 0,
 		"opt": 0
 		},
-	"\/img\/iq-dist-lg.png": {
+	"\/img\/icon_certificate.png": {
 		"ft": 32768,
-		"iS": 4298,
+		"iS": 1420,
 		"oA": 0,
-		"oAP": "\/img\/iq-dist-lg.png",
+		"oAP": "\/img\/icon_certificate.png",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/img\/iq-dist-md.png": {
+	"\/img\/icon_trophy.png": {
 		"ft": 32768,
-		"iS": 4160,
+		"iS": 2096,
 		"oA": 0,
-		"oAP": "\/img\/iq-dist-md.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/img\/iq-testbox.png": {
-		"ft": 32768,
-		"iS": 8723,
-		"oA": 0,
-		"oAP": "\/img\/iq-testbox.png",
+		"oAP": "\/img\/icon_trophy.png",
 		"oF": 0,
 		"opt": 0
 		},
@@ -1684,54 +1674,6 @@
 		"iS": 6638,
 		"oA": 0,
 		"oAP": "\/img\/jpeg.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/img\/line_header.png": {
-		"ft": 32768,
-		"iS": 939,
-		"oA": 0,
-		"oAP": "\/img\/line_header.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/img\/logo-mobile.png": {
-		"ft": 32768,
-		"iS": 2978,
-		"oA": 0,
-		"oAP": "\/img\/logo-mobile.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/img\/logo.png": {
-		"ft": 32768,
-		"iS": 3200,
-		"oA": 0,
-		"oAP": "\/img\/logo.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/img\/lr-testbox.png": {
-		"ft": 32768,
-		"iS": 8999,
-		"oA": 0,
-		"oAP": "\/img\/lr-testbox.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/img\/question-shadow.png": {
-		"ft": 32768,
-		"iS": 1354,
-		"oA": 0,
-		"oAP": "\/img\/question-shadow.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/img\/smaragda.jpg": {
-		"ft": 16384,
-		"iS": 30977,
-		"oA": 0,
-		"oAP": "\/img\/smaragda.jpg",
 		"oF": 0,
 		"opt": 0
 		},
