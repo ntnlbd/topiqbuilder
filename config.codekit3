@@ -33,6 +33,18 @@
 		"oAP": "\/_includes\/head.html",
 		"oF": 0
 		},
+	"\/_kits\/chekbox-q.kit": {
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/chekbox-q.html",
+		"oF": 2
+		},
+	"\/_kits\/image-q.kit": {
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/image-q.html",
+		"oF": 2
+		},
 	"\/_kits\/index.kit": {
 		"ft": 2048,
 		"oA": 0,
@@ -43,6 +55,12 @@
 		"ft": 2048,
 		"oA": 0,
 		"oAP": "\/login.html",
+		"oF": 2
+		},
+	"\/_kits\/radio-q.kit": {
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/radio-q.html",
 		"oF": 2
 		},
 	"\/_kits\/register.kit": {
@@ -1431,6 +1449,12 @@
 		"oAP": "\/fonts\/FontAwesome.otf",
 		"oF": 0
 		},
+	"\/image-q.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/image-q.html",
+		"oF": 0
+		},
 	"\/img\/about-icon-1.png": {
 		"ft": 32768,
 		"iS": 5576,
@@ -1786,6 +1810,12 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/login.html",
+		"oF": 0
+		},
+	"\/radio-q.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/radio-q.html",
 		"oF": 0
 		},
 	"\/register.html": {
