@@ -1343,6 +1343,12 @@
 		"sM": 0,
 		"sU": 0
 		},
+	"\/chekbox-q.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/chekbox-q.html",
+		"oF": 0
+		},
 	"\/css\/font-awesome.min.css": {
 		"aP": 1,
 		"bl": 0,
