@@ -39,6 +39,12 @@
 		"oAP": "\/chekbox-q.html",
 		"oF": 2
 		},
+	"\/_kits\/faq.kit": {
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/faq.html",
+		"oF": 2
+		},
 	"\/_kits\/image-q.kit": {
 		"ft": 2048,
 		"oA": 0,
@@ -55,6 +61,18 @@
 		"ft": 2048,
 		"oA": 0,
 		"oAP": "\/login.html",
+		"oF": 2
+		},
+	"\/_kits\/myaccount.kit": {
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/myaccount.html",
+		"oF": 2
+		},
+	"\/_kits\/profile.kit": {
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/profile.html",
 		"oF": 2
 		},
 	"\/_kits\/radio-q.kit": {
@@ -74,6 +92,12 @@
 		"oA": 0,
 		"oAP": "\/sign-up.html",
 		"oF": 3
+		},
+	"\/_kits\/tests.kit": {
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/tests.html",
+		"oF": 2
 		},
 	"\/_less\/bootstrap\/alerts.less": {
 		"aP": 0,
@@ -1401,7 +1425,7 @@
 		"oA": 0,
 		"oAP": "\/css\/icheck\/skins\/square\/aero.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/css\/icheck\/skins\/square\/aero@2x.png": {
 		"ft": 32768,
@@ -1409,7 +1433,7 @@
 		"oA": 0,
 		"oAP": "\/css\/icheck\/skins\/square\/aero@2x.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/css\/socialize-bookmarks.css": {
 		"aP": 1,
@@ -1818,6 +1842,12 @@
 		"oAP": "\/login.html",
 		"oF": 0
 		},
+	"\/myaccount.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/myaccount.html",
+		"oF": 0
+		},
 	"\/radio-q.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -1834,6 +1864,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/sign-up.html",
+		"oF": 0
+		},
+	"\/tests.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/tests.html",
 		"oF": 0
 		}
 	},
