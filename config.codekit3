@@ -57,6 +57,12 @@
 		"oAP": "\/index.html",
 		"oF": 3
 		},
+	"\/_kits\/iq-result-page.kit": {
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/iq-result-page.html",
+		"oF": 2
+		},
 	"\/_kits\/login.kit": {
 		"ft": 2048,
 		"oA": 0,
@@ -1445,6 +1451,12 @@
 		"oF": 0,
 		"oS": 0
 		},
+	"\/faq.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/faq.html",
+		"oF": 0
+		},
 	"\/fonts\/fontawesome-webfont.eot": {
 		"ft": 8192,
 		"oA": 2,
@@ -1737,6 +1749,18 @@
 		"oAP": "\/index.html",
 		"oF": 0
 		},
+	"\/iq-analysis.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/iq-analysis.html",
+		"oF": 0
+		},
+	"\/iq-result-page.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/iq-result-page.html",
+		"oF": 0
+		},
 	"\/js\/bootstrap.min.js": {
 		"ft": 64,
 		"mi": 1,
@@ -1846,6 +1870,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/myaccount.html",
+		"oF": 0
+		},
+	"\/profile.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/profile.html",
 		"oF": 0
 		},
 	"\/radio-q.html": {
